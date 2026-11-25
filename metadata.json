@@ -1,0 +1,6 @@
+{
+  "name": "CRM Chile",
+  "description": "Plataforma empresarial de gestión comercial, clientes, oportunidades, cotizaciones, pedidos, postventa y automatizaciones orientada a empresas chilenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
